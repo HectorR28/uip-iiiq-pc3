@@ -1,0 +1,2 @@
+2, efectivo, b
+3, efectivo, c
